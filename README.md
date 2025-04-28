@@ -1,6 +1,5 @@
 # NablaQDARTS
 Source code of TMLR paper: ∇QDARTS: Quantization as an Elastic Dimension to Differentiable NAS
-
 ## Introduction
 This work introduces ∆QDARTS, a novel approach that combines differentiable NAS with mixed-precision search. ∆QDARTS aims to identify the optimal mixed-precision neural architecture capable of achieving remarkable accuracy while operating with minimal computational requirements in a single shot, end-to-end differentiable framework obviating the need for proxies or pretraining.
 
